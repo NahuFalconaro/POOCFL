@@ -1,0 +1,18 @@
+Libro1 = {
+    'name':nombre
+    'author':author
+},
+Libro2= {
+    'name':nombre,
+    'author':author
+},
+Libro3= {
+    'name':nombre,
+    'author':author
+},
+Libro4= {
+    'name':nombre,
+    'author':author
+},
+Agrego nahuel,
+new libro

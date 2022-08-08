@@ -1,0 +1,6 @@
+interface Interfaz{
+
+
+
+    devolverHoraActual(): string;
+}

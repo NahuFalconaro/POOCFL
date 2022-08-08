@@ -1,0 +1,6 @@
+interface ElementoCreador{
+
+
+    getMemoria();
+
+}

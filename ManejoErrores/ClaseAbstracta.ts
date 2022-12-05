@@ -1,0 +1,9 @@
+interface ClaseAbstracta{
+
+
+
+    getAlgo(): string;
+    
+
+
+}

@@ -6,7 +6,43 @@ class Conexion{
     
     Cuando se conectan a una base de datos -> 1 sola instancia
     
-    
+    // ⛔️ Uncaught SyntaxError: Unexpected identifier
+Let age = 30; // 👈️ should be let
+
+// ⛔️ Uncaught S// ⛔️ Uncaught SyntaxError: Unexpected identifier
+Let age = 30; // 👈️ should be let
+
+// ⛔️ Uncaught SyntaxError: Unexpected identifier
+Class Person { // 👈️ should be class
+
+}
+
+// ⛔️ Uncaught SyntaxError: Unexpected identifier
+Function sum(a,b) { // 👈️ should be function
+  return a + b;
+}
+
+// ⛔️ Uncaught SyntaxError: Unexpected identifier
+const obj = {
+  first: 'James' // 👈️ missing comma
+  last: 'Doe',
+};
+yntaxError: Unexpected identifier
+Class Person { // 👈️ should be class
+
+}
+
+// ⛔️ Uncaught SyntaxError: Unexpected identifier
+Function sum(a,b) { // 👈️ should be function
+  return a + b;
+}
+
+// ⛔️ Uncaught SyntaxError: Unexpected identifier
+const obj = {
+  first: 'James' // 👈️ missing comma
+  last: 'Doe',
+};
+
     
     */
 
